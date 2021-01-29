@@ -1,6 +1,6 @@
 # Face Emotion Recognition - DeepCNN Python
  
-![Python](https://forthebadge.com/images/badges/made-with-python.svg)       <a href="https://medium.com/https://nischay-gowda.medium.com/face-emotion-recognition-deepcnn-python-a710b05f560"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=35></a>
+![Python](https://forthebadge.com/images/badges/made-with-python.svg)       <a href="https://medium.com/nerd-for-tech/face-emotion-recognition-deepcnn-python-a710b05f560"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=35></a>
 
 
 
